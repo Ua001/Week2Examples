@@ -41,6 +41,7 @@ public class PrintStudentList {
         {
            // System.out.println(list[i]); //prints the memory address
             System.out.println(list[i].getName()+ ", " + list[i].getAge());
+            System.out.println("hello");
         }
         
     }
